@@ -106,7 +106,7 @@ Clever use of advanced search operators to find API keys, usernames, and vulnera
 - 📦 SDKs and libraries (possibly vulnerable software)
 - 📖 Docs, tutorials, source code
 
-> 📌 **SDK** = Software Development Kit. You can download the software behind an API and analyze it.
+> 📌 **SDK** = A collection of tools, libraries, and documentation used to build applications.
 
 **Other directories:** `rapidapi.com` • `apis.guru/browse-apis`
 
