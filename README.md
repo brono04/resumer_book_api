@@ -1074,6 +1074,8 @@ Others: HTML encoding, URL encoding.
 
 ---
 
+# here
+
 ### 🔮 GraphQL
 
 Specification where the **client defines the data structure** it wants. Query-centric (like SQL). Follows the 6 REST constraints.
